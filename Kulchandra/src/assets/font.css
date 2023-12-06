@@ -1,0 +1,55 @@
+@font-face {
+    font-family: 'Akkurat-bold'; /* Replace 'YourFontName' with your font's name */
+    src: url('./fonts/Akkurat-Mono-Bold.woff') format('woff'); /* Replace './YourFontFile.woff' with your font's path */
+    /* Add more src declarations for different formats if necessary */
+ 
+  }
+
+  @font-face {
+    font-family: 'Akkurat-1'; /* Replace 'YourFontName' with your font's name */
+    src: url('./fonts/Akkurat-Mono.woff') format('woff'); /* Replace './YourFontFile.woff' with your font's path */
+    /* Add more src declarations for different formats if necessary */
+ 
+  }
+
+  @font-face {
+    font-family: 'Akkurat-2'; /* Replace 'YourFontName' with your font's name */
+    src: url('./fonts/Akkurat-Mono.woff2') format('woff'); /* Replace './YourFontFile.woff' with your font's path */
+    /* Add more src declarations for different formats if necessary */
+ 
+  }
+
+  @font-face {
+    font-family: 'Grtsk-light'; /* Replace 'YourFontName' with your font's name */
+    src: url('./fonts/Grtsk-Peta-Light.woff') format('woff'); /* Replace './YourFontFile.woff' with your font's path */
+    /* Add more src declarations for different formats if necessary */
+ 
+  }
+
+  @font-face {
+    font-family: 'Grtsk-medium'; /* Replace 'YourFontName' with your font's name */
+    src: url('./fonts/Grtsk-Peta-Medium.woff') format('woff'); /* Replace './YourFontFile.woff' with your font's path */
+    /* Add more src declarations for different formats if necessary */
+ 
+  }
+
+  @font-face {
+    font-family: 'Grtsk-regular'; /* Replace 'YourFontName' with your font's name */
+    src: url('./fonts/Grtsk-Peta-Regular.woff') format('woff'); /* Replace './YourFontFile.woff' with your font's path */
+    /* Add more src declarations for different formats if necessary */
+ 
+  }
+
+  @font-face {
+    font-family: 'Grtsk-bold'; /* Replace 'YourFontName' with your font's name */
+    src: url('./fonts/Grtsk-Tera-Bold.woff2') format('woff'); /* Replace './YourFontFile.woff' with your font's path */
+    /* Add more src declarations for different formats if necessary */
+ 
+  }
+
+  @font-face {
+    font-family: 'Grtsk-medium'; /* Replace 'YourFontName' with your font's name */
+    src: url('./fonts/Grtsk-Tera-Medium.woff') format('woff'); /* Replace './YourFontFile.woff' with your font's path */
+    /* Add more src declarations for different formats if necessary */
+ 
+  }

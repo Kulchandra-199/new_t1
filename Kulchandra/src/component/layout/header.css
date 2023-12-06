@@ -1,0 +1,80 @@
+.button{
+    all: unset
+}
+
+.header_wrapper{
+    padding-bottom: 0.8rem;
+    padding-top: 0.8rem;
+    font-family: 'Akkurat-1';
+
+    display: flex;
+    border-bottom: 1px solid white;
+    margin-left: 20px;
+    margin-right: 20px;
+    justify-content: space-between;
+    height: 3rem;
+    backdrop-filter: blur(10px);
+   
+}
+
+.hw_left{
+    
+    display: flex;
+}
+
+.sticky {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    z-index: 1000; /* Adjust z-index as needed */
+    /* Add additional styles for the sticky header */
+  }
+
+.hw_left_wrapper{
+    display: flex;
+    gap: 5px;
+    align-items: center;
+    text-align: center;
+}
+
+.hw_left button{
+    font-size: 10px;
+    font-family: 'Akkurat-1';
+    height: 1rem;
+    padding: 10px 12px;
+    display:flex;
+    align-items: center;
+}
+
+.test{
+    height: 100vh;
+}
+
+.h_button{
+
+}
+
+.hw_right{
+    font-size: 10px;
+}
+
+.socials{
+    display: flex;
+    gap: 20px   ;
+}
+
+.scroll-container {
+    height: 30px; /* adjust as needed */
+    overflow: hidden;
+    white-space: nowrap; /* prevents text wrapping */
+  }
+  
+  .scroll-content {
+    display: flex;
+    align-items: center;
+    animation: scroll 30s linear infinite; /* adjust timing as needed */
+  }
+  
+  @keyframes scroll {
+    from { transform: translateX(0); }
+    to { transform: translateX(-100%); } }
